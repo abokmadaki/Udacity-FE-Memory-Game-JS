@@ -29,17 +29,6 @@ The real-life game, players flip over cards to locate the pairs that match The g
 * What happens when cards do not match
 * When the game finishes
 
-Below are some examples of how we implemented these interactions.
-
-#### A Correct Guess
-![A Correct Guess Video]( <img src="https://youtu.be/nZY0-TJtsgM" >)
-
-#### An Incorrect Guess
-![An Incorrect Guess Video](https://youtu.be/P5OfFEpcq28)
-
-#### Winning The Game
-![Winning the Game Video](https://youtu.be/r5YOzWxcbng)
-
 #### Interactivity Guideline
 Keep in mind that the specific functionality demonstrated here (e.g. a card performs a horizontal flip when clicked) is an example. You do not need to have this exact functionality.
 
