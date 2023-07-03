@@ -32,7 +32,7 @@ The real-life game, players flip over cards to locate the pairs that match The g
 Below are some examples of how we implemented these interactions.
 
 #### A Correct Guess
-![A Correct Guess Video](https://youtu.be/nZY0-TJtsgM)
+![A Correct Guess Video]( <img src="https://youtu.be/nZY0-TJtsgM" >)
 
 #### An Incorrect Guess
 ![An Incorrect Guess Video](https://youtu.be/P5OfFEpcq28)
